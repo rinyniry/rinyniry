@@ -1,3 +1,6 @@
+### Hi
+### I'm YeoRin Choi
+
 ## Availble Languages 
 ### Python, C, C++ 
 
