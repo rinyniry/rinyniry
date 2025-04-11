@@ -1,4 +1,5 @@
-## Hi there 👋
+## Availble Languages 
+### Python, C, C++ 
 
 <!--
 **rinyniry/rinyniry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
