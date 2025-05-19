@@ -1,7 +1,7 @@
 ### Hi
 ### I'm YeoRin Choi
 
-## Availble Languages 
+## Available Languages 
 ### Python, C, C++ 
 
 <!--
